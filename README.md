@@ -9,7 +9,7 @@ Below are visualizations showing **partner-skill evolution** during evaluation i
   ![Cramped Room](plots/cramped_room_skill_evolution.png)
 
 **Gameplay GIFs for all partners (0–15)**
-
+In the following GIFs, the **blue agent** acts as the partner from the self-play population, while the **green-hat player** represents the AI agent being evaluated. Each GIF illustrates how the AI agent adapts its behavior and skill selection to coordinate with a specific partner.
 | Partner 0 | Partner 1 | Partner 2 | Partner 3 |
 |-----------|-----------|-----------|-----------|
 | ![P0](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent0.gif) | ![P1](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent1.gif) | ![P2](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent2.gif) | ![P3](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent3.gif) |
@@ -32,7 +32,7 @@ Below are visualizations showing **partner-skill evolution** during evaluation i
   ![Forced Coordination](plots/forced_coordination_skill_evolution.png)
 
 **Gameplay GIFs for all partners (0–15)**
-
+In the following GIFs, the **blue agent** acts as the partner from the self-play population, while the **green-hat player** represents the AI agent being evaluated. Each GIF illustrates how the AI agent adapts its behavior and skill selection to coordinate with a specific partner.
 | Partner 0 | Partner 1 | Partner 2 | Partner 3 |
 |-----------|-----------|-----------|-----------|
 | ![P0](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent0.gif) | ![P1](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent1.gif) | ![P2](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent2.gif) | ![P3](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent3.gif) |
