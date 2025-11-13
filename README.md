@@ -7,7 +7,7 @@ Below are visualizations showing **partner-skill evolution** during evaluation i
 
 - **Cramped Room Evaluation**
 
-This figure shows how the AI agent selects skills when partnering with different partners exhibiting diverse play styles. Each **row corresponds to a specific partner**, and the **color indicates which skill** the AI agent is using at each timestep throughout the episode. This visualization highlights how the AI agent adapts its skill selection to match the partner’s behavior.
+This figure shows how the AI agent selects skills when partnering with different partners with diverse play styles. Each **row corresponds to a specific partner**, and the **color indicates which skill** the AI agent is using at each timestep throughout the episode. This visualization highlights how the AI agent adapts its skill selection to match the partner’s behavior.
   
   ![Cramped Room](plots/cramped_room_skill_evolution.png)
 
@@ -34,7 +34,7 @@ In the following GIFs, the **blue agent** acts as the partner from the self-play
 
 - **Forced Coordination Evaluation**
   
-This figure shows how the AI agent selects skills when partnering with different partners exhibiting diverse play styles. Each **row corresponds to a specific partner**, and the **color indicates which skill** the AI agent is using at each timestep throughout the episode. This visualization highlights how the AI agent adapts its skill selection to match the partner’s behavior.
+This figure shows how the AI agent selects skills when partnering with different partners with diverse play styles. Each **row corresponds to a specific partner**, and the **color indicates which skill** the AI agent is using at each timestep throughout the episode. This visualization highlights how the AI agent adapts its skill selection to match the partner’s behavior.
   ![Forced Coordination](plots/forced_coordination_skill_evolution.png)
 
 
